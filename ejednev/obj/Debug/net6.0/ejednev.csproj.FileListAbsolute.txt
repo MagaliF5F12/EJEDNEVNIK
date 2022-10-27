@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\ejednev\ejednev\bin\Debug\net6.0\ejednev.exe
+C:\Users\Ali\source\repos\ejednev\ejednev\bin\Debug\net6.0\ejednev.deps.json
+C:\Users\Ali\source\repos\ejednev\ejednev\bin\Debug\net6.0\ejednev.runtimeconfig.json
+C:\Users\Ali\source\repos\ejednev\ejednev\bin\Debug\net6.0\ejednev.dll
+C:\Users\Ali\source\repos\ejednev\ejednev\bin\Debug\net6.0\ejednev.pdb
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.AssemblyInfo.cs
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.dll
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\refint\ejednev.dll
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.pdb
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ejednev.genruntimeconfig.cache
+C:\Users\Ali\source\repos\ejednev\ejednev\obj\Debug\net6.0\ref\ejednev.dll
